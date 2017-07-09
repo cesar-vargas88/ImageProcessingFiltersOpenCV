@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\talos-césar\documents\visual studio 2017\projects\cv opencv\cv opencv\source.cpp(944): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CV OpenCV.vcxproj -> C:\Users\Talos-César\Documents\Visual Studio 2017\Projects\CV OpenCV\x64\Debug\CV OpenCV.exe
+  CV OpenCV.vcxproj -> C:\Users\Talos-César\Documents\Visual Studio 2017\Projects\CV OpenCV\x64\Debug\CV OpenCV.pdb (Partial PDB)
